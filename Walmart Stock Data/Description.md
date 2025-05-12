@@ -10,7 +10,7 @@ Kaggle link: [https://www.kaggle.com/datasets/abdmoiz/walmart-stock-data-2025](h
 The SQL section leverages structured queries to extract meaningful insights from the Walmart stock dataset. The queries use SQLite-compatible syntax to aggregate data, calculate key metrics, and identify significant events. Techniques such as grouping, window functions, common table expressions (CTEs), and self-joins are employed to analyze temporal trends, volatility, and trading activity. Each query is designed to address a specific analytical goal, ranging from basic data exploration to advanced statistical analysis.
 
 
-SQL script file: 
+SQL script file: https://github.com/onurdoker/Data-Analysis-Projects/blob/main/Walmart%20Stock%20Data/script.sql
 
 ### Query Details:
 #### 1. Preliminary Review and Analysis
@@ -66,7 +66,7 @@ Explanation: This query calculates the annual average and standard deviation of 
 
 The Python section, executed in a Jupyter Notebook, focuses on data manipulation, statistical analysis, and visualization using libraries like pandas, NumPy, and matplotlib. The queries (or code blocks) systematically process the dataset, check for quality, compute derived metrics (e.g., moving averages, returns), and generate visualizations to complement the SQL findings. This section excels in providing dynamic and visual insights into Walmart’s stock trends and performance.
 
-Jupyter Notebook File: 
+Jupyter Notebook File: https://github.com/onurdoker/Data-Analysis-Projects/blob/main/Walmart%20Stock%20Data/walmart.ipynb
 
 ### Query Details
 
